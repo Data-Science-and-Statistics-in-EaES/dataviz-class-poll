@@ -1,2 +1,2 @@
-# dataviz-class-poll
-Class poll results for exploratory data visualization demo
+# Class Poll Exercise (e-03a) 
+Class poll data and exercise for exploratory data visualization
