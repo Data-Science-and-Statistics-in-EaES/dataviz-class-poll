@@ -5,12 +5,18 @@ date: "9/7/2021"
 output: html_document
 ---
 
+![](e-03a-banner.png)
+
 **We've just collected some data! Now let's explore it!** 
 
 In this short exercise you will create exploratory data visualizations using the data we just collected, by:
 
 1. uncommenting lines of code (remove `#` signs) 
 2. completing the code blanks (`___`)
+
+Remember you do not need to **commit** or **push** your work! Just complete the code and **Knit** to save your changes and update the html output.
+
+The goal of this exercise is to become more comfortable using the `ggplot()` function.
 
 ### Packages
 
